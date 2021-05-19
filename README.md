@@ -20,6 +20,6 @@
 ### December Statistics for the Temperature. 
 ![alt text](https://github.com/Yoditatr/surfs_up/blob/main/December%20Temp%20Summary%20statistics.PNG?raw=true)
 
-### Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
+### Summary:  
 
-##### Comparing the June and December weather patterns, the temperatures averages are reasonably close and the minimims are not that low. Hence, the data supports opening a Surf and Ice Cream shop year-round.
+##### Comparing the June and December weather patterns, the temperatures averages are reasonably close and the minimims are not that low. Hence, the data supports opening a Surf and Ice Cream shop year-round. I would also perform a queries to get the precipitation analysis for June and December, and another quesry to calculate the daily temperatures with statistical summary for randomly selected days in the months of June and December.
