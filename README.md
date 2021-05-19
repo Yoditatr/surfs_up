@@ -1,5 +1,7 @@
 # surfs_up
 
+![alt text](https://github.com/Yoditatr/surfs_up/blob/main/surf%20image.jpg?raw=true)
+
 ### Overview of the analysis: 
 
 ##### Last summer when visiting Hawaii I discovered a new passion for surfing. While on vacationn I have come up with a plan in investing on surf shop and reached out to an invester who have the same passion as mine. W. Avy.
